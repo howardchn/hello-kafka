@@ -6,10 +6,12 @@ For quick start, only the following commands will be ready to go.
 
 Note: before running the following commands, make sure the following items are installed.
 
+### Prerequisite
 1. [docker](https://docs.docker.com/get-started/) CE or EE
 2. [docker composer](https://docs.docker.com/compose/install/)
 3. ports `2181`, `9092` and `29092` are not in using
 
+### Launch The Service
 ```terminal
 cd [your work directory]
 curl https://raw.githubusercontent.com/howardchn/hello-kafka/master/docker-compose.yaml -o docker-compose-kafka.yaml
