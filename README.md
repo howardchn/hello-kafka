@@ -1,5 +1,5 @@
 # Kafka Quick Test Env
-This is used for setting up a Kafka environment and integrate with a simple producer and keep send an continuously number per second. You could just right your own client to consume the predefined topics `foobar`.
+This is used for setting up a Kafka environment with a simple producer and continuously sending a number per second. You could just build your own client to consume the predefined topics `foobar`.
 
 ## Quick Setup
 For quick start, only the following commands will be ready to go.
