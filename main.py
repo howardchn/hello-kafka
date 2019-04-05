@@ -19,10 +19,3 @@ def run():
 
 
 run()
-# def runRetry():
-#     try:
-#         run()
-#     except:
-#         runRetry()
-
-# runRetry()
